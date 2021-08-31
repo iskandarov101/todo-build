@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoItems/main.scss"],"names":[],"mappings":"AAAA,YAEE,kBAAyB,CACzB,YAAa,CAHf,kBAKI,4BAAwC","file":"main.55cf31fd.chunk.css","sourcesContent":[".input-todo {\r\n  border: none;\r\n  border-color: transparent;\r\n  outline: none;\r\n  &:focus{\r\n    box-shadow: 0 0 0 3px rgb(219, 219, 250);\r\n  }\r\n}"]}
